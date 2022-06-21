@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "custom",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=servicephpvg9d84;AccountKey=1rTWJotrs89RzEpcHkxrpx5A90K0+8GEsy5zzjNnNRuHL8E/HmRt0kTaahYMjkNoznDyNOvmm0Iz+AStrdYdYA==;EndpointSuffix=core.windows.net"
+  }
+}
